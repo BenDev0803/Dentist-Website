@@ -1,0 +1,11 @@
+.intro{
+    border-left: 2px solid grey;
+}
+
+.sezione{
+    border: 2px solid rgb(13, 110, 253);
+}
+
+.testa{
+    height: 50vh !important;
+}
